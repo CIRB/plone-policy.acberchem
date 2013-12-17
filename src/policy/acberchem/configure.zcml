@@ -7,5 +7,18 @@
   <five:registerPackage package="." initialize=".initialize" />
   <include file="profiles.zcml" />
   <include package="cirb.zopemonitoring" />
+  <include package="Products.LinguaPlone" />
+  <include package="collective.anysurfer" />
+  <include package="collective.quickupload" />
+  <include package="collective.checktranslated" />
+  <include package="collective.easyslider" />
+  <include package="collective.galleriffic" />
+  <include package="collective.portlet.videoanysurfer" />
+  <include package="collective.videoanysurfer" />
+  <include package="Products.PloneFormGen" />
+  <include package="Solgema.fullcalendar" />
+  <include package="webcouturier.dropdownmenu" />
+  <include package="plonetheme.acberchem" />
+
 
 </configure>

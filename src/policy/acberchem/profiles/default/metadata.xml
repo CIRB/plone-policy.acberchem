@@ -3,5 +3,13 @@
   <version>0001</version>
   <dependencies>
       <dependency>profile-Products.LinguaPlone:LinguaPlone</dependency>
+      <dependency>profile-collective.ckeditor:default</dependency>
+      <dependency>profile-plone.app.theming:default</dependency>
+      <dependency>profile-plonetheme.acberchem:default</dependency>
+      <dependency>profile-collective.anysurfer:default</dependency> 
+      <dependency>profile-collective.quickupload:default</dependency>
+      <dependency>profile-collective.easyslider:default</dependency>
+      <dependency>profile-Solgema.fullcalendar:default</dependency>
+      <dependency>profile-Products.PloneFormGen:default</dependency>
   </dependencies>
 </metadata>

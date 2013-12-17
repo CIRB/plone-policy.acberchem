@@ -4,4 +4,13 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
-- Initial release
+- Add Dropdown menu
+- Add collective.checktranslated
+- Add collective.galleriffic
+- Add collective.portlet.videoanysurfer
+- Add collective.videoanysurfer
+- Add Plone Quick Upload
+- Add Solgema Fullcalendar
+- Add collective.anysurfer 
+- Add collective.easyslider
+- Add plonetheme.acberchem
