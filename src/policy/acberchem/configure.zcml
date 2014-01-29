@@ -19,6 +19,7 @@
   <include package="Solgema.fullcalendar" />
   <include package="webcouturier.dropdownmenu" />
   <include package="plonetheme.acberchem" />
+  <include package="cirb.footersitemap" />
 
 
 </configure>

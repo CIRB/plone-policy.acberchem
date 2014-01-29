@@ -41,6 +41,7 @@ setup(name='policy.acberchem',
           'Products.PloneFormGen',
           'Solgema.fullcalendar',
           'webcouturier.dropdownmenu',
+          'cirb.footersitemap',
       ],
       extras_require={
         'test': [
